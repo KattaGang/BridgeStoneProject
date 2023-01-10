@@ -1,1 +1,1 @@
-web: gunicorn IdeaManagementPlatform.wsgi
+web: gunicorn IdeaManagementPlatform.IdeaManagementPlatform.wsgi
